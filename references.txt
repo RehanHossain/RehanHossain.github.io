@@ -1,3 +1,0 @@
-tutorials:
-
-https://climateestimate.net/content/getting-started.html

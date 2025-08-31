@@ -1,10 +1,21 @@
-# Link to website
-https://rehanhossain.github.io/
+# Rehan Hossain | Climate Scientist
 
-# RehanHossain.github.io
-I am hoping to provide some extended range prediction services and climate forecast for the community. 
-If nothing else this is meant to be a learning experience.
+A minimalist, fast personal website for a climate scientist focused on subseasonal variability (BSISO/MJO) and the Indian Summer Monsoon.
 
+## Quick start (GitHub Pages)
 
-# current progress
-Currently I am learning html and css to publish my site.
+1. Rename your repository to **`YOURUSERNAME.github.io`** (or create one).
+2. Copy these files to the repo root and commit.
+3. In GitHub: *Settings → Pages* → Source: **Deploy from a branch** → Branch: **main** (or your default).
+4. Your site will be live at `https://YOURUSERNAME.github.io/`.
+
+## Customize
+
+- Edit `index.html`, `research.html`, `publications.html`, `contact.html`.
+- Replace placeholder links (Google Scholar/ORCID/GitHub) in `publications.html`.
+- Swap `/assets/img/bsiso_placeholder.svg` with a schematic or a figure.
+- Optional: add a `CNAME` file if you have a custom domain.
+
+---
+
+Built 2025-08-31.
